@@ -3,11 +3,11 @@ from telebot.types import *
 from sqll import *
 import requests
 
-token = "6446376504:AAG1W2Rs6O-EuPRN3SGPMdramHqR3QgEjEc"
+token = "6393751475:AAFR2BWat1NiV6zY7WcjYXtFfnX0Eo0gmF8"
 
 bot = telebot.TeleBot(token)
 
-my_id =  int("5997009476") 
+my_id =  int("1310488710") 
 
 msg = "" # اتركها لا تخلي اي شي
 
