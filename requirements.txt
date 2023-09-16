@@ -11,6 +11,7 @@ youtube_dl
 yt-dlp
 youtube-search
 requests
+telebot==0.0.5
 asyncstdlib
 apscheduler
 pytz
