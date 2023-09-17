@@ -43,5 +43,5 @@ url=f'https://t.me/{show_channel()}'),
 	    await app.send_message(text=f"اهـلا عـزيزي \n كـل مـا عليـك ارفـع البـوت ادمـن فـي الكـروب \n وارســرل تفـعل 🌿لعرض الاوامر ارسل كلمه الاوامر💕",
 	    chat_id = m.chat.id, 
         reply_to_message_id=m.id,
-      disable_web_page_preview = True)
-idle()
+      disable_web_page_preview = True) 
+app.run()
