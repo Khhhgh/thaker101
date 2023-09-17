@@ -7,7 +7,7 @@ token = "6393751475:AAFR2BWat1NiV6zY7WcjYXtFfnX0Eo0gmF8"
 
 bot = telebot.TeleBot(token)
 
-my_id =  int("1310488710") 
+my_id =  int("5997009476") 
 
 msg = "" # اتركها لا تخلي اي شي
 
