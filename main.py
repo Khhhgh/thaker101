@@ -44,4 +44,4 @@ url=f'https://t.me/{show_channel()}'),
 	    chat_id = m.chat.id, 
         reply_to_message_id=m.id,
       disable_web_page_preview = True)
-app.run()
+idle()
